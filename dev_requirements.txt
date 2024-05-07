@@ -1,0 +1,11 @@
+langchain==0.1.16
+langchain-chroma
+sentence_transformers
+pypdf==4.2.0
+beautifulsoup4==4.12.3
+unstructured==0.13.2
+markdown==3.6
+transformers[torch]==4.39.2
+accelerate==0.28.0
+bitsandbytes==0.43.0
+python-dotenv==1.0.1
